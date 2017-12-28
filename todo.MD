@@ -6,7 +6,7 @@ What we have:
 
 To do:
 1. Clean / enter data
-- BI: Clean names and traits etc such that there are no spelling errors, extra spaces etc… 
+- *BI:* Clean names and traits etc such that there are no spelling errors, extra spaces etc… 
 - BI: Synonymize names in all files [to make new final files for analyses]
 - BI: Add additional style length data
 - BI: Deal with problems arising with upon attempts to synonymize.
